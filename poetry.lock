@@ -1,0 +1,23 @@
+[[package]]
+category = "main"
+description = "ANSI colors for Python"
+name = "ansicolors"
+optional = false
+python-versions = "*"
+version = "1.1.8"
+
+[[package]]
+category = "main"
+description = "ANSII Color formatting for output in terminal."
+name = "termcolor"
+optional = false
+python-versions = "*"
+version = "1.1.0"
+
+[metadata]
+content-hash = "289aa1ff4bcbda253944dec61c75b5356fdfa54951a5993049c682f96cb2d611"
+python-versions = "^3.7"
+
+[metadata.hashes]
+ansicolors = ["00d2dde5a675579325902536738dd27e4fac1fd68f773fe36c21044eb559e187", "99f94f5e3348a0bcd43c82e5fc4414013ccc19d70bd939ad71e0133ce9c372e0"]
+termcolor = ["1d6d69ce66211143803fbc56652b41d73b4a400a2891d7bf7a1cdf4c02de613b"]
